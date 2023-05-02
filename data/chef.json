@@ -1,0 +1,289 @@
+{
+  "chefs": [
+    {
+      "id": "C1A",
+      "name": "Rajesh Kumar",
+      "yearsOfExperience": 12,
+      "likes": 2500,
+      "imageUrl": "https://img.freepik.com/free-photo/male-chef-cook-wearing-black-uniform-cook-hat-clenching-fists-happy-positive-winner-concept-standing-pink-background_141793-54477.jpg?w=740&t=st=1683019549~exp=1683020149~hmac=40a7152421e1da3be98059a79c0867dfa9379b36a4260f6120ec9f0da69c8704",
+      "bio": "Rajesh Kumar is a chef with over 12 years of experience in cooking Indian cuisine. He specializes in creating delicious vegetarian dishes that are both healthy and flavorful. Rajesh has created 6 unique recipes that are sure to satisfy your taste buds and leave you wanting more.",
+      "recipes": [
+        {
+          "name": "Chana Masala",
+          "ingredients": [
+            "chickpeas",
+            "onion",
+            "tomato",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "cookingMethod": "1. Cook chickpeas in a pressure cooker. 2. Sauté onion, garlic, and ginger in a pan. 3. Add spices and tomato. 4. Add chickpeas and cook for a few minutes. 5. Garnish with cilantro.",
+          "rating": 4.8
+        },
+        {
+          "name": "Baingan Bharta",
+          "ingredients": [
+            "eggplant",
+            "onion",
+            "tomato",
+            "garlic",
+            "ginger",
+            "spices"
+          ],
+          "cookingMethod": "1. Roast eggplant until charred. 2. Peel and mash the eggplant. 3. Sauté onion, garlic, and ginger in a pan. 4. Add spices and tomato. 5. Add mashed eggplant and cook for a few minutes. 6. Garnish with cilantro.",
+          "rating": 4.5
+        },
+        {
+          "name": "Paneer Tikka",
+          "ingredients": ["paneer", "capsicum", "onion", "curd", "spices"],
+          "cookingMethod": "1. Cut paneer, capsicum, and onion into cubes. 2. Marinate in curd and spices. 3. Grill until cooked. 4. Serve hot with chutney.",
+          "rating": 4.7
+        }
+      ]
+    },
+    {
+      "id": "C3C",
+      "name": "Manish Mehrotra",
+      "yearsOfExperience": 20,
+      "likes": 3500,
+      "imageUrl": "https://img.freepik.com/free-photo/indian-man-mountains-male-traditional-turban-hinduist-with-special-things-rituals_1157-41084.jpg?w=360&t=st=1683019610~exp=1683020210~hmac=69c7beeaf1442e2ee65e745e02c8e8d988c3fc27ebe9cc2a2969a2c0bcb1a944",
+      "bio": "Manish Mehrotra, is a celebrity chef with over 20 years of experience in cooking Indian cuisine. He is known for his innovative and creative approach to traditional Indian dishes. Manish Mehrotra, has created over 50 unique recipes that have been enjoyed by people all over the world. He has also hosted several cooking shows and written many cookbooks.",
+      "recipes": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": ["chicken", "butter", "tomato", "cream", "spices"],
+          "cookingMethod": "1. Marinate chicken in yogurt and spices. 2. Grill or bake chicken until cooked. 3. Sauté onion and tomato in butter. 4. Add spices and cream. 5. Add chicken and cook for a few minutes. 6. Garnish with cilantro.",
+          "rating": 4.9
+        },
+        {
+          "name": "Biryani",
+          "ingredients": [
+            "basmati rice",
+            "chicken",
+            "spices",
+            "onion",
+            "yogurt"
+          ],
+          "cookingMethod": "1. Cook basmati rice with whole spices. 2. Sauté onion and spices in oil. 3. Add chicken and cook for a few minutes. 4. Layer rice and chicken in a pot. 5. Seal pot with dough and cook on low heat for 30 minutes. 6. Garnish with fried onion and mint leaves.",
+          "rating": 4.7
+        },
+        {
+          "name": "Pav Bhaji",
+          "ingredients": [
+            "potato",
+            "tomato",
+            "capsicum",
+            "onion",
+            "butter",
+            "spices"
+          ],
+          "cookingMethod": "1. Boil and mash potato. 2. Sauté onion and capsicum in butter. 3. Add mashed potato, tomato, and spices. 4. Cook until thick. 5. Serve with toasted bread (pav) and garnish with onion and lemon.",
+          "rating": 4.5
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": [
+            "spinach",
+            "paneer",
+            "onion",
+            "tomato",
+            "cream",
+            "spices"
+          ],
+          "cookingMethod": "1. Blanch spinach and blend into a puree. 2. Sauté onion and tomato in butter. 3. Add spices and spinach puree. 4. Add paneer and cream. 5. Cook for a few minutes. 6. Garnish with ginger juliennes.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": "Z9D",
+      "name": "Vikas Khanna",
+      "yearsOfExperience": 18,
+      "likes": 4200,
+      "imageUrl": "https://img.freepik.com/free-photo/pleased-young-male-cook-chef-uniform-showing-empty-hand-doing-ok-sign-isolated-orange-space_141793-44752.jpg?w=740&t=st=1683019785~exp=1683020385~hmac=5823000b1b7b53397887a743b4be1e214b777cf869861db3e2d3e7cda7b801b3",
+      "bio": "Vikas Khanna is an Indian-born Michelin-starred chef who has been working in the culinary industry for over 18 years. He is known for his modern approach to traditional Indian cuisine and has created several unique and innovative dishes. Vikas has also authored many cookbooks and hosted several TV shows about food and cooking.",
+      "recipes": [
+        {
+          "name": "Tandoori Chicken",
+          "ingredients": [
+            "chicken",
+            "yogurt",
+            "spices",
+            "lemon juice",
+            "ginger-garlic paste"
+          ],
+          "cookingMethod": "1. Marinate chicken in yogurt, spices, lemon juice and ginger-garlic paste. 2. Grill or bake chicken until cooked. 3. Garnish with coriander leaves and lemon wedges.",
+          "rating": 4.6
+        },
+        {
+          "name": "Prawn Curry",
+          "ingredients": [
+            "prawns",
+            "coconut milk",
+            "tomatoes",
+            "onion",
+            "spices"
+          ],
+          "cookingMethod": "1. Sauté onion and spices in oil. 2. Add tomatoes and cook until soft. 3. Add prawns and coconut milk. 4. Cook until prawns are done. 5. Garnish with coriander leaves.",
+          "rating": 4.3
+        },
+        {
+          "name": "Mutton Biryani",
+          "ingredients": [
+            "mutton",
+            "basmati rice",
+            "spices",
+            "onion",
+            "yogurt"
+          ],
+          "cookingMethod": "1. Cook basmati rice with whole spices. 2. Sauté onion and spices in oil. 3. Add mutton and cook for a few minutes. 4. Layer rice and mutton in a pot. 5. Seal pot with dough and cook on low heat for 30 minutes. 6. Garnish with fried onion and mint leaves.",
+          "rating": 4.7
+        },
+        {
+          "name": "Masala Chai",
+          "ingredients": ["tea leaves", "milk", "water", "spices"],
+          "cookingMethod": "1. Boil water with spices. 2. Add tea leaves and simmer for a few minutes. 3. Add milk and sugar. 4. Bring to a boil and strain. 5. Serve hot.",
+          "rating": 4.5
+        }
+      ]
+    },
+    {
+      "id": "K8F",
+      "name": "Sanjeev Kapoor",
+      "yearsOfExperience": 30,
+      "likes": 6500,
+      "imageUrl": "https://img.freepik.com/premium-photo/portrait-young-handsome-indian-man-chef-smiling_251136-32078.jpg?w=360",
+      "bio": "Sanjeev Kapoor is a renowned Indian chef who has been in the culinary industry for over 30 years. He is known for his expertise in Indian cuisine and has won several awards for his contribution to the field. Sanjeev has also authored many cookbooks and hosted several TV shows about food and cooking.",
+      "recipes": [
+        {
+          "name": "Butter Chicken",
+          "ingredients": [
+            "chicken",
+            "butter",
+            "tomato puree",
+            "cream",
+            "spices"
+          ],
+          "cookingMethod": "1. Marinate chicken in spices and yogurt. 2. Grill or bake chicken until cooked. 3. Sauté onion and spices in butter. 4. Add tomato puree and cook until soft. 5. Add cream and cooked chicken. 6. Cook until sauce thickens. 7. Garnish with coriander leaves.",
+          "rating": 4.8
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": ["paneer", "spinach", "tomatoes", "onion", "spices"],
+          "cookingMethod": "1. Sauté onion and spices in oil. 2. Add tomatoes and cook until soft. 3. Add spinach and cook until wilted. 4. Blend mixture into a smooth puree. 5. Sauté paneer in oil until browned. 6. Add puree and cook until heated through. 7. Garnish with cream and butter.",
+          "rating": 4.5
+        },
+        {
+          "name": "Chole Bhature",
+          "ingredients": ["chickpeas", "flour", "spices", "yogurt", "onion"],
+          "cookingMethod": "1. Soak chickpeas overnight. 2. Cook chickpeas in spices and onion. 3. Make dough with flour, yogurt, and spices. 4. Roll dough into discs and fry in oil. 5. Serve hot with cooked chickpeas.",
+          "rating": 4.6
+        },
+        {
+          "name": "Gulab Jamun",
+          "ingredients": [
+            "milk powder",
+            "flour",
+            "sugar",
+            "cardamom",
+            "rose water"
+          ],
+          "cookingMethod": "1. Mix milk powder and flour with water to form dough. 2. Shape dough into balls. 3. Fry balls in oil until golden brown. 4. Make syrup with sugar, cardamom, and rose water. 5. Soak fried balls in syrup. 6. Serve hot or cold.",
+          "rating": 4.4
+        }
+      ]
+    },
+    {
+      "id": "K6D",
+      "name": "Anjum Anand",
+      "yearsOfExperience": 20,
+      "likes": 8000,
+      "imageUrl": "https://img.freepik.com/premium-photo/hipster-chef-hat-prepare-healthy-meal-professional-skills_474717-59746.jpg?w=740",
+      "bio": "Anjum Anand is a British Indian chef, author, and TV personality known for her healthy and modern take on traditional Indian cuisine. She has published several cookbooks and has hosted several cooking shows on television.",
+      "recipes": [
+        {
+          "name": "Tandoori Chicken",
+          "ingredients": [
+            "Chicken drumsticks",
+            "Yogurt",
+            "Ginger",
+            "Garlic",
+            "Spices"
+          ],
+          "cookingMethod": "Marinate chicken in yogurt and spices, grill until cooked through. Serve hot with mint chutney.",
+          "rating": 4.2
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": [
+            "Spinach",
+            "Paneer",
+            "Tomatoes",
+            "Onion",
+            "Garlic",
+            "Ginger"
+          ],
+          "cookingMethod": "Blanch spinach in boiling water, then puree. Saute onion, garlic, and ginger in a pan until soft. Add pureed spinach, diced tomatoes, and spices. Cook until the sauce thickens. Add paneer and cook until heated through. Serve hot with naan or rice.",
+          "rating": 4.6
+        },
+        {
+          "name": "Mango Lassi",
+          "ingredients": ["Mango pulp", "Yogurt", "Milk", "Sugar", "Ice cubes"],
+          "cookingMethod": "Blend mango pulp, yogurt, milk, sugar, and ice cubes together until smooth. Serve chilled.",
+          "rating": 4.8
+        }
+      ]
+    },
+    {
+      "id": "A4K",
+      "name": "Tarla Dalal",
+      "yearsOfExperience": 40,
+      "likes": 10000,
+      "imageUrl": "https://img.freepik.com/premium-photo/young-brazilian-chef-man-isolated-white-background-making-money-gesture_1368-365589.jpg?w=740",
+      "bio": "Tarla Dalal was an Indian chef and author of over 100 cookbooks. She was known for her expertise in vegetarian cuisine, which she made accessible to home cooks across India and the world. Her recipes were simple, flavorful, and catered to a variety of dietary needs, from vegan to gluten-free. She was a trailblazer in the world of Indian cuisine, and her legacy continues to inspire new generations of home cooks.",
+      "recipes": [
+        {
+          "name": "Chana Masala",
+          "ingredients": [
+            "Chickpeas",
+            "Onion",
+            "Tomato",
+            "Ginger",
+            "Garlic",
+            "Spices"
+          ],
+          "cookingMethod": "Soak chickpeas overnight, then boil until tender. Saute onion, ginger, and garlic in a pan until soft. Add diced tomatoes and spices, cook until the sauce thickens. Add boiled chickpeas and cook until heated through. Serve hot with rice or naan.",
+          "rating": 4.2
+        },
+        {
+          "name": "Vegetable Biryani",
+          "ingredients": [
+            "Basmati rice",
+            "Mixed vegetables",
+            "Onion",
+            "Ginger",
+            "Garlic",
+            "Spices"
+          ],
+          "cookingMethod": "Soak basmati rice for 30 minutes, then boil until half-cooked. Saute onion, ginger, and garlic in a pan until soft. Add mixed vegetables and spices, cook for 5-10 minutes. Layer rice and vegetable mixture in a large pot, cover and cook on low heat for 20-30 minutes. Serve hot with raita or pickle.",
+          "rating": 4.4
+        },
+        {
+          "name": "Palak Paneer",
+          "ingredients": [
+            "Spinach",
+            "Paneer",
+            "Onion",
+            "Tomato",
+            "Ginger",
+            "Garlic",
+            "Spices"
+          ],
+          "cookingMethod": "Blanch spinach in boiling water for 2-3 minutes, then blend into a smooth puree. Saute onion, ginger, and garlic in a pan until soft. Add diced tomatoes and spices, cook until the sauce thickens. Add spinach puree and paneer cubes, cook until heated through. Serve hot with naan or rice.",
+          "rating": 4.6
+        }
+      ]
+    }
+  ]
+}
