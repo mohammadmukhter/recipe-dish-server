@@ -9,6 +9,7 @@
       "bio": "Rajesh Kumar is a chef with over 12 years of experience in cooking Indian cuisine. He specializes in creating delicious vegetarian dishes that are both healthy and flavorful. Rajesh has created 6 unique recipes that are sure to satisfy your taste buds and leave you wanting more.",
       "recipes": [
         {
+          "recipeId": "C1A1",
           "name": "Chana Masala",
           "ingredients": [
             "chickpeas",
@@ -18,10 +19,12 @@
             "ginger",
             "spices"
           ],
+
           "cookingMethod": "1. Cook chickpeas in a pressure cooker. 2. Sauté onion, garlic, and ginger in a pan. 3. Add spices and tomato. 4. Add chickpeas and cook for a few minutes. 5. Garnish with cilantro.",
           "rating": 4.8
         },
         {
+          "recipeId": "C1A2",
           "name": "Baingan Bharta",
           "ingredients": [
             "eggplant",
@@ -35,6 +38,7 @@
           "rating": 4.5
         },
         {
+          "recipeId": "C1A3",
           "name": "Paneer Tikka",
           "ingredients": ["paneer", "capsicum", "onion", "curd", "spices"],
           "cookingMethod": "1. Cut paneer, capsicum, and onion into cubes. 2. Marinate in curd and spices. 3. Grill until cooked. 4. Serve hot with chutney.",
@@ -51,12 +55,14 @@
       "bio": "Manish Mehrotra, is a celebrity chef with over 20 years of experience in cooking Indian cuisine. He is known for his innovative and creative approach to traditional Indian dishes. Manish Mehrotra, has created over 50 unique recipes that have been enjoyed by people all over the world. He has also hosted several cooking shows and written many cookbooks.",
       "recipes": [
         {
+          "recipeId": "C3C1",
           "name": "Butter Chicken",
           "ingredients": ["chicken", "butter", "tomato", "cream", "spices"],
           "cookingMethod": "1. Marinate chicken in yogurt and spices. 2. Grill or bake chicken until cooked. 3. Sauté onion and tomato in butter. 4. Add spices and cream. 5. Add chicken and cook for a few minutes. 6. Garnish with cilantro.",
           "rating": 4.9
         },
         {
+          "recipeId": "C3C2",
           "name": "Biryani",
           "ingredients": [
             "basmati rice",
@@ -69,6 +75,7 @@
           "rating": 4.7
         },
         {
+          "recipeId": "C3C3",
           "name": "Pav Bhaji",
           "ingredients": [
             "potato",
@@ -82,6 +89,7 @@
           "rating": 4.5
         },
         {
+          "recipeId": "C3C4",
           "name": "Palak Paneer",
           "ingredients": [
             "spinach",
@@ -105,6 +113,7 @@
       "bio": "Vikas Khanna is an Indian-born Michelin-starred chef who has been working in the culinary industry for over 18 years. He is known for his modern approach to traditional Indian cuisine and has created several unique and innovative dishes. Vikas has also authored many cookbooks and hosted several TV shows about food and cooking.",
       "recipes": [
         {
+          "recipeId": "Z9D1",
           "name": "Tandoori Chicken",
           "ingredients": [
             "chicken",
@@ -117,6 +126,7 @@
           "rating": 4.6
         },
         {
+          "recipeId": "Z9D2",
           "name": "Prawn Curry",
           "ingredients": [
             "prawns",
@@ -129,6 +139,7 @@
           "rating": 4.3
         },
         {
+          "recipeId": "Z9D3",
           "name": "Mutton Biryani",
           "ingredients": [
             "mutton",
@@ -141,6 +152,7 @@
           "rating": 4.7
         },
         {
+          "recipeId": "Z9D4",
           "name": "Masala Chai",
           "ingredients": ["tea leaves", "milk", "water", "spices"],
           "cookingMethod": "1. Boil water with spices. 2. Add tea leaves and simmer for a few minutes. 3. Add milk and sugar. 4. Bring to a boil and strain. 5. Serve hot.",
@@ -157,6 +169,7 @@
       "bio": "Sanjeev Kapoor is a renowned Indian chef who has been in the culinary industry for over 30 years. He is known for his expertise in Indian cuisine and has won several awards for his contribution to the field. Sanjeev has also authored many cookbooks and hosted several TV shows about food and cooking.",
       "recipes": [
         {
+          "recipeId": "K8F1",
           "name": "Butter Chicken",
           "ingredients": [
             "chicken",
@@ -169,18 +182,21 @@
           "rating": 4.8
         },
         {
+          "recipeId": "K8F2",
           "name": "Palak Paneer",
           "ingredients": ["paneer", "spinach", "tomatoes", "onion", "spices"],
           "cookingMethod": "1. Sauté onion and spices in oil. 2. Add tomatoes and cook until soft. 3. Add spinach and cook until wilted. 4. Blend mixture into a smooth puree. 5. Sauté paneer in oil until browned. 6. Add puree and cook until heated through. 7. Garnish with cream and butter.",
           "rating": 4.5
         },
         {
+          "recipeId": "K8F3",
           "name": "Chole Bhature",
           "ingredients": ["chickpeas", "flour", "spices", "yogurt", "onion"],
           "cookingMethod": "1. Soak chickpeas overnight. 2. Cook chickpeas in spices and onion. 3. Make dough with flour, yogurt, and spices. 4. Roll dough into discs and fry in oil. 5. Serve hot with cooked chickpeas.",
           "rating": 4.6
         },
         {
+          "recipeId": "K8F4",
           "name": "Gulab Jamun",
           "ingredients": [
             "milk powder",
@@ -203,6 +219,7 @@
       "bio": "Anjum Anand is a British Indian chef, author, and TV personality known for her healthy and modern take on traditional Indian cuisine. She has published several cookbooks and has hosted several cooking shows on television.",
       "recipes": [
         {
+          "recipeId": "K6D1",
           "name": "Tandoori Chicken",
           "ingredients": [
             "Chicken drumsticks",
@@ -215,6 +232,7 @@
           "rating": 4.2
         },
         {
+          "recipeId": "K6D2",
           "name": "Palak Paneer",
           "ingredients": [
             "Spinach",
@@ -228,6 +246,7 @@
           "rating": 4.6
         },
         {
+          "recipeId": "K6D3",
           "name": "Mango Lassi",
           "ingredients": ["Mango pulp", "Yogurt", "Milk", "Sugar", "Ice cubes"],
           "cookingMethod": "Blend mango pulp, yogurt, milk, sugar, and ice cubes together until smooth. Serve chilled.",
@@ -244,6 +263,7 @@
       "bio": "Tarla Dalal was an Indian chef and author of over 100 cookbooks. She was known for her expertise in vegetarian cuisine, which she made accessible to home cooks across India and the world. Her recipes were simple, flavorful, and catered to a variety of dietary needs, from vegan to gluten-free. She was a trailblazer in the world of Indian cuisine, and her legacy continues to inspire new generations of home cooks.",
       "recipes": [
         {
+          "recipeId": "A4K1",
           "name": "Chana Masala",
           "ingredients": [
             "Chickpeas",
@@ -257,6 +277,7 @@
           "rating": 4.2
         },
         {
+          "recipeId": "A4K2",
           "name": "Vegetable Biryani",
           "ingredients": [
             "Basmati rice",
@@ -270,6 +291,7 @@
           "rating": 4.4
         },
         {
+          "recipeId": "A4K3",
           "name": "Palak Paneer",
           "ingredients": [
             "Spinach",
