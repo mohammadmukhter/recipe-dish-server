@@ -7,6 +7,7 @@ const chefData = require('./data/chef.json');
 
 app.use(cors());
 
+
 app.get("/", (req, res)=>{
     res.send('server connected successfully')
 })
@@ -16,6 +17,7 @@ app.get("/chef", (req,res)=>{
 })
 
 app.get("/recipe", (req, res)=>{
+    console.log(chefData)
     res.send("No recipe Data found")
 })
 
