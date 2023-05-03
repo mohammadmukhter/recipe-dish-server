@@ -17,7 +17,7 @@ app.get("/chef", (req,res)=>{
 })
 
 app.get("/recipe", (req, res)=>{
-    console.log(chefData)
+    // console.log(chefData)
     res.send("No recipe Data found")
 })
 
