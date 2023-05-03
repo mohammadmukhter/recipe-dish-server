@@ -16,10 +16,7 @@ app.get("/chef", (req,res)=>{
     res.send(chefData)
 })
 
-app.get("/recipe", (req, res)=>{
-    // console.log(chefData)
-    res.send("No recipe Data found")
-})
+
 
 app.get("/recipe/:id", (req,res)=> {
     const recipeId = req.params.id;
